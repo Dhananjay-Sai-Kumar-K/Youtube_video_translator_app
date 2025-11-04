@@ -1,0 +1,5 @@
+{
+  "name": "Copy of YouTube Video Translator",
+  "description": "An application that takes a YouTube video URL and a Hindi transcript, translates the transcript to Tamil using Gemini, generates Tamil audio, and plays it synchronized with the muted video.",
+  "requestFramePermissions": []
+}
